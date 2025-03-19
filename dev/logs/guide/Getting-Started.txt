@@ -1,0 +1,25 @@
+Getting Started with Zelo
+
+If you're new to open-source contributing, welcome! Here's a step-by-step guide to help you get started.
+
+Step 1: Set Up Your Environment
+Before you can start contributing, you'll need to set up your development environment.
+
+1. Clone the repository:
+    git clone https://github.com/<your-username>/zelo.git
+2. Install dependencies (we use XYZ tools, see the build guide for specifics).
+3. Build the project by following the instructions in the Build directory.
+   
+Step 2: Understand the Code
+- The /src directory contains all the source code for the compiler(/cmp), runtime(/rt), utilities(/utl), and standard library(/std).
+- The /tests directory contains unit tests to ensure everything works as expected.
+
+Look through the Project Structure to get an idea of where things are located.
+
+Step 3: Make Your First Contribution
+Start small—try fixing an existing issue or adding a simple feature. Check the issues list for open tasks and feel free to ask for guidance on Discord or Reddit.
+
+Step 4: Submit Your Pull Request
+Once you’ve made your changes, follow the instructions in Contributing.txt to submit your pull request for review.
+
+Step 5: Repeat. As you make contributions you will gain confidence and be able to make bigger and bigger changes.

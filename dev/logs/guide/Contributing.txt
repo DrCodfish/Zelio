@@ -1,0 +1,13 @@
+How to Contribute to Zelo
+
+1. Fork the Repository
+Start by forking the repository to your own GitHub account. This will allow you to make changes without affecting the main project until your pull request is merged.
+
+2. Create a Branch
+Create a new branch for the feature or bugfix you're working on. We recommend naming branches based on the feature or issue, like "feature/awesome-feature" or "bugfix/fix-issue-123".
+
+3. Make Changes and Test
+Write code for your changes, following the coding style guidelines. Ensure your code is well-tested and follows best practices. Run the project on all platforms you intend to support, and ensure that no existing features break.
+
+4. Submit a Pull Request (PR)
+Once your changes are complete, submit a pull request to the "main" branch. Provide a detailed description of what you've done and why. You can reference the related issues and include any testing instructions.

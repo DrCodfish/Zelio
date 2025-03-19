@@ -1,0 +1,18 @@
+Zelo Project Structure
+
+The project is organized as follows:
+
+/src: Contains all source code for the compiler, runtime, and standard library.
+  /compiler: Code related to the parsing and compilation process.
+  /runtime: Runtime environment code for executing Zelo programs.
+  /lib: Standard library code.
+  /utils: Helper functions and utilities.
+  
+/build: Files related to building the project, including configuration scripts.
+/tests: Unit tests and integration tests.
+/docs: Documentation files, including guides and tutorials.
+/logs: Logs for build, errors, and performance metrics.
+    /activity: Lists the activity of devs for various purposes, such as fuction definition, logs of commits and tests, ect
+    /errors: lists detailed errors that will take time to fix AS WELL AS long term goals for the project
+    /performance: benchmmarks for various tests
+    /build: Build logs contain detailed information about the build process such as compilation results, dependency resolution, and warnings about potential issues

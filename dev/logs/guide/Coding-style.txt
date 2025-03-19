@@ -1,0 +1,19 @@
+Zelo Coding Style Guide
+
+Adhering to a consistent coding style is essential for readability and maintainability.
+
+Code Formatting
+- Use tabs for indentation. Do not use 4 spaces.
+- Each function should be separated by exactly one line.
+- Lines should be no longer than 80 characters.
+- Braces should be on the same line as the statement (e.g., if (condition) {).
+
+Variable Naming
+- Use camelCase for variable names (e.g., myVariable).
+- Use PascalCase for class or type names (e.g., MyClass).
+
+Function Naming
+- Use descriptive names for functions, e.g., parseInput(), compileCode().
+
+Documentation
+- Use the /activity/func_use directory for function descriptions and paramaters.
